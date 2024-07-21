@@ -1,0 +1,78 @@
+Array
+(
+    [responses] => Array
+        (
+            [0] => Array
+                (
+                    [question] => How many known living species of hyenas are there?
+                    [givenAnswer] => 8
+                    [isCorrect] => 
+                )
+
+            [1] => Array
+                (
+                    [question] => What is the name for a male bee that comes from an unfertilized egg?
+                    [givenAnswer] => Worker
+                    [isCorrect] => 
+                )
+
+            [2] => Array
+                (
+                    [question] => What is the world's longest venomous snake?
+                    [givenAnswer] => Green Anaconda
+                    [isCorrect] => 
+                )
+
+            [3] => Array
+                (
+                    [question] => The Kākāpō is a large, flightless, nocturnal parrot native to which country?
+                    [givenAnswer] => Australia
+                    [isCorrect] => 
+                )
+
+            [4] => Array
+                (
+                    [question] => The now extinct species "Thylacine" was native to where?
+                    [givenAnswer] => Oregon, United States
+                    [isCorrect] => 
+                )
+
+            [5] => Array
+                (
+                    [question] => What is the collective noun for bears?
+                    [givenAnswer] => Tribe
+                    [isCorrect] => 
+                )
+
+            [6] => Array
+                (
+                    [question] => What scientific family does the Aardwolf belong to?
+                    [givenAnswer] => Hyaenidae
+                    [isCorrect] => 1
+                )
+
+            [7] => Array
+                (
+                    [question] => Which of the following is another name for the "Poecilotheria Metallica Tarantula"?
+                    [givenAnswer] => Hopper
+                    [isCorrect] => 
+                )
+
+            [8] => Array
+                (
+                    [question] => Which species is a "mountain chicken"?
+                    [givenAnswer] => Frog
+                    [isCorrect] => 1
+                )
+
+            [9] => Array
+                (
+                    [question] => What type of animal is a natterjack?
+                    [givenAnswer] => Fish
+                    [isCorrect] => 
+                )
+
+        )
+
+    [score] => 2
+)
